@@ -30,12 +30,6 @@ const findProjectById = (projectId: string) => {
   // Example usage:
   const foundProject = findProjectById(id);
   
-  if (foundProject) {
-    console.log('Found Project:', foundProject);
-  } else {
-    console.log('Project not found.');
-  }
-
     // const projectDetails = result?.project
 
     const renderLink = () => `/profile/${foundProject?.id}`

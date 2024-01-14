@@ -9,7 +9,6 @@ type Props = {
 const RelatedProjects = async ({ category}: Props) => {
   
     const filteredProjects = dummyData.projects.filter(project => project.category === category);
-    console.log(filteredProjects)
     
 
     return (
