@@ -21,7 +21,7 @@ import { dummyData } from '@/constants'
             <div className='flex items-center flex-col w-full'>
                 <Image src="/profile01.jpg" width={200} height={200} className="rounded-[50%] border-dotted border-2 border-red-500 " alt="user image" />
                 <p className=" text-[30px] lg:text-4xl md:text-4xl hero-text font-bold mt-10">Md Foysal Ahammed</p>
-                <p className="md:text-4xl  text-3xl font-extrabold md:mt-6 mt-5 max-w-lg"> Software  Engineer  <br /> at Ncryptic,Croatia👋</p>
+                <p className="md:text-4xl  text-3xl font-extrabold md:mt-6 mt-5 max-w-lg"> Web Developer👋</p>
                 
                 <div className="flex mt-8  justify-around gap-5 w-full flex-wrap">
                     <Button 
