@@ -231,6 +231,18 @@ export const dummyData = {
       avatarUrl: 'https://lh3.googleusercontent.com/a/ACg8ocJ-unlBnGPKWjtT1qawZjU2pLDDTBkIRGtkqO6sRCYq8gI=s96-c'  
     },
     {
+      title: "Food Cart",
+      description: "Create a dynamic web application using React.js and Next.js for server-side rendering, backed by Express for API integration. Enhance the user interface with responsive and stylish designs using Tailwind CSS. This project combines the efficiency of Next.js for seamless navigation, React for interactive components, Express for backend functionality, and Tailwind CSS for a modern and responsive UI. Elevate user experience through fast-loading pages, server-side rendering, and a visually appealing design, making it an ideal solution for robust and performant web applications.",
+      image: "/blog.png",
+      liveSiteUrl: "https://food-cart-phi.vercel.app",
+      githubUrl: "https://github.com/FoysalAhammed",
+      category: "website",
+      id: 'user_01H9W40KBJR1YXQ4HS23JY5TC12',
+      email: 'hanif.mia2233@gmail.com',
+      name: 'Foysal Ahammed',
+      avatarUrl: 'https://lh3.googleusercontent.com/a/ACg8ocJ-unlBnGPKWjtT1qawZjU2pLDDTBkIRGtkqO6sRCYq8gI=s96-c'  
+    },
+    {
       title: "Portfolio Website ",
       description: "Create a dynamic web application using React.js and Next.js for server-side rendering, backed by Express for API integration. Enhance the user interface with responsive and stylish designs using Tailwind CSS. This project combines the efficiency of Next.js for seamless navigation, React for interactive components, Express for backend functionality, and Tailwind CSS for a modern and responsive UI. Elevate user experience through fast-loading pages, server-side rendering, and a visually appealing design, making it an ideal solution for robust and performant web applications.",
       image: "/portfolio.WEBP",
