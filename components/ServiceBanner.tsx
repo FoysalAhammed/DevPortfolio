@@ -5,7 +5,7 @@ const ServiceBanner = () => {
     <section className="hero w-[95%] mt-[1rem] capitalize space-y-20 first:pt-14 last:pb-20 md:first:pt-20 lg:space-y-30">
       <div className=" mx-auto mt-[50px] mb-[50px]  items-center justify-around">
         <div className="flex  items-center justify-between flex-col lg:flex-row">
-          <div className="w-[100%] move-2 flex lg:w-1/2 xl:w-[670px] items-center justify-center  capitalize">
+          <div className="w-[100%] move-2 flex xl:w-[670px] items-center justify-center  capitalize">
             <img
               src="/chatimage.webp"
               className="    w-full  lg:w-1/2 xl:w-[770px] z-10 order-2 lg:order-1 "
@@ -22,7 +22,7 @@ const ServiceBanner = () => {
               committed to providing timely and effective solutions, no matter
               the time of day. With continuous availability, we strive to
               deliver exceptional service and address inquiries promptly. <br />
-              <strong>Emergency: +880 1778-821588</strong>
+              <strong>Contact: +880 1778-821588</strong>
             </p>
           </div>
         </div>

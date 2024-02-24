@@ -18,11 +18,11 @@ const JoinUs = () => {
            <a href='https://github.com/FoysalAhammed' className=' md:p-6 lg:p-6 xl:p-6 padingforsmall  text-[#2b3137] p-6 rounded-[50%] bg-white bg-opacity-30 '>
            <FaGithubSquare className="" />
            </a>
-           <a className='text-[#0077b5] md:p-6 lg:p-6 xl:p-6 padingforsmall  rounded-[50%] bg-white bg-opacity-30 '>
+           <a className='text-[#0077b5] md:p-6 lg:p-6 xl:p-6 padingforsmall  rounded-[50%] bg-white bg-opacity-30 ' href='https://www.linkedin.com/in/foysal-ahammed-235ba6203/'>
            <FaLinkedinIn className="" />
            </a>
            
-           <a href='/' className='text-[#d14266]  p-6 rounded-[50%] md:p-6 lg:p-6 xl:p-6 padingforsmall  bg-white bg-opacity-30 '>
+           <a href='https://www.instagram.com/md_foysal_ahammed28/' className='text-[#d14266]  p-6 rounded-[50%] md:p-6 lg:p-6 xl:p-6 padingforsmall  bg-white bg-opacity-30 ' >
            <FaInstagramSquare className="" />
            </a>
             
