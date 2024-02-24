@@ -82,7 +82,7 @@ const findProjectById = (projectId: string) => {
                     {foundProject?.description}
                 </p>
 
-                <div className="flex  flex-wrap mt-5 gap-2 xl:gap-5 md:gap-5 2xl:gap-7 sm:gap-3 ">
+                <div className="flex  flex-wrap mt-5 gap-[0.2rem] xl:gap-5 md:gap-5 2xl:gap-7 sm:gap-3 ">
                     <Link href={`${foundProject?.githubUrl}`}  target="_blank" rel="noreferrer" className="flexCenter gap-2 tex-sm font-medium text-primary-purple">
                          <span className="underline githubbutton"> 🖥 Github</span> 
                     </Link>
