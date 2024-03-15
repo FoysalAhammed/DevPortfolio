@@ -1,7 +1,12 @@
 import "./globals.css";
 export const metadata = {
-  title: "Web Engineer Foysal ",
-  description: " Showcase Web Developer MD Foysal Ahammed projects",
+  title: "Portfolio||Foysal ",
+  description: " Showcasing projects",
+  opengraph: {
+    title: "Portfolio||Foysal ",
+    description: " Showcasing projects",
+    images:["/poortfolio.png"]
+  }
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
