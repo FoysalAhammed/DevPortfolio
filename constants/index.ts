@@ -341,7 +341,19 @@ export const dummyData = {
       liveSiteUrl: "https://student-managment.vercel.app/",
       githubUrl: "https://github.com/FoysalAhammed/Student-Managment-Frontend",
       category: "website",
-      id: 'user_01H9W40KBJR1YXQ4HS23JY5TC19',
+      id: 'user_01H9W40KBJR1YXQ4HS23JY5TC129',
+      email: 'hanif.mia2233@gmail.com',
+      name: 'Foysal Ahammed',
+      avatarUrl: 'https://lh3.googleusercontent.com/a/ACg8ocJ-unlBnGPKWjtT1qawZjU2pLDDTBkIRGtkqO6sRCYq8gI=s96-c'        // Will be replaced with a valid User ID during testing
+    },
+    {
+      title: "File Saver",
+      description: "Create a dynamic web application using React.js and Next.js for server-side rendering, backed by Express for API integration. Enhance the user interface with responsive and stylish designs using Tailwind CSS. This project combines the efficiency of Next.js for seamless navigation, React for interactive components, Express for backend functionality, and Tailwind CSS for a modern and responsive UI. Elevate user experience through fast-loading pages, server-side rendering, and a visually appealing design, making it an ideal solution for robust and performant web applications.",
+      image: "/savefile.png",
+      liveSiteUrl: "https://file-share-next-js.vercel.app",
+      githubUrl: "https://github.com/FoysalAhammed/File-Share-NextJS",
+      category: "website",
+      id: 'user_01H9W40KBJR1YXQ4HS23JY5TC119',
       email: 'hanif.mia2233@gmail.com',
       name: 'Foysal Ahammed',
       avatarUrl: 'https://lh3.googleusercontent.com/a/ACg8ocJ-unlBnGPKWjtT1qawZjU2pLDDTBkIRGtkqO6sRCYq8gI=s96-c'        // Will be replaced with a valid User ID during testing
