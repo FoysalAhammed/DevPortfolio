@@ -1,18 +1,16 @@
 import "./globals.css";
 export const metadata = {
-  title: "Portfolio||Foysal ",
-  description: " Showcasing projects",
-  opengraph: {
-    title: "Portfolio||Foysal ",
-    description: " Showcasing projects",
-    images:["/poortfolio.png"]
-  }
+  title: "Foysal - Portfolio",
+  description: "Crafting dynamic web experiences through innovative design and robust development.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang='en'>
       <body>
+        <head>
+        <meta property="og:image" content="/portfolio.png" />
+        </head>
         <main>
           {children}
         </main>
