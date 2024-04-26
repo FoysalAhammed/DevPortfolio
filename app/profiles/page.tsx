@@ -24,12 +24,15 @@ import { dummyData } from '@/constants'
                 <p className="md:text-4xl  text-3xl font-extrabold md:mt-6 mt-5 max-w-lg"> Web Developer👋</p>
                 
                 <div className="flex mt-8  justify-around gap-5 w-full flex-wrap">
+                    <Link href={`https://www.facebook.com/foysal7788`}>
+                    
                     <Button 
                         title="Follow" 
                         leftIcon="/plus-round.svg" 
                         bgColor="bg-light-white-400 !w-max" 
                         textColor="text-black-100" 
                     />
+                    </Link>
                     <Link href={`mailto:hanif.mia2233@gmail.com`}>
                         <Button title="Hire Me" leftIcon="/email.svg" />
                     </Link>
